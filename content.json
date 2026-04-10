@@ -119,7 +119,7 @@
                         {
                             "name": "Соусы обычные",
                             "compound": "сырный, чесночный, кисло-сладкий, барбекю, сладкий чили, кетчуп, горчичный",
-                            "price": "500"
+                            "price": "50"
                         }
                     ]
                 },
@@ -158,7 +158,7 @@
                         },
                         {
                             "name": "Шампанское",
-                            "compound": "брютб 750мл",
+                            "compound": "брют, 750мл",
                             "price": "3300"
                         },
                         {
@@ -167,14 +167,39 @@
                             "price": "290"
                         },
                         {
-                            "name": "Настойка",
-                            "compound": "в ассортименте",
-                            "price": "230"
+                            "name": "Becherovka",
+                            "compound": "50мл",
+                            "price": "320"
                         },
                         {
-                            "name": "Виски Джек Дениелс",
+                            "name": "Виски Jack Daniel`s",
+                            "compound": "50мл",
+                            "price": "350"
+                        },
+                        {
+                            "name": "Виски Jameson",
                             "compound": "50мл",
                             "price": "330"
+                        },
+                        {
+                            "name": "Виски Talisker 10 Y.O.",
+                            "compound": "50мл",
+                            "price": "600"
+                        },
+                        {
+                            "name": "Виски Ardbeg",
+                            "compound": "50мл",
+                            "price": "730"
+                        },
+                        {
+                            "name": "Текила Jose Cuervo Silver",
+                            "compound": "50мл",
+                            "price": "340"
+                        },
+                        {
+                            "name": "Джин Bombay Sapphirea",
+                            "compound": "50мл",
+                            "price": "450"
                         }
                     ]
                 },
