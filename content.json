@@ -203,42 +203,42 @@
                         },
                         {
                             "name": "Jägermeister",
-                            "compound": "50мл",
+                            "compound": "",
                             "price": "290"
                         },
                         {
                             "name": "Becherovka",
-                            "compound": "50мл",
+                            "compound": "",
                             "price": "320"
                         },
                         {
                             "name": "Виски Jack Daniel`s",
-                            "compound": "50мл",
+                            "compound": "",
                             "price": "350"
                         },
                         {
                             "name": "Виски Jameson",
-                            "compound": "50мл",
+                            "compound": "",
                             "price": "330"
                         },
                         {
                             "name": "Виски Talisker 10 Y.O.",
-                            "compound": "50мл",
+                            "compound": "",
                             "price": "600"
                         },
                         {
                             "name": "Виски Ardbeg",
-                            "compound": "50мл",
+                            "compound": "",
                             "price": "730"
                         },
                         {
                             "name": "Текила Jose Cuervo Silver",
-                            "compound": "50мл",
+                            "compound": "",
                             "price": "340"
                         },
                         {
                             "name": "Джин Bombay Sapphire",
-                            "compound": "50мл",
+                            "compound": "",
                             "price": "450"
                         }
                     ]
